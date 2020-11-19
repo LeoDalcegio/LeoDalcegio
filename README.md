@@ -1,6 +1,6 @@
 # Leonardo Luís Dalcegio 🏎️
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-dalcegio-849852180/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-lu%C3%ADs-dalcegio-849852180/)
 
 <br>
 
